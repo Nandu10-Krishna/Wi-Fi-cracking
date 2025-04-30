@@ -1,18 +1,3 @@
-wifi/
-├── main/
-│   ├── interface.py
-│   ├── scanner.py
-│   ├── handshake.py
-│   ├── cracker.py
-│   └── logger.py
-├── wordlists/
-│   └── rockyou.txt
-├── auto_crack.py
-├── wifi (executable script)
-├── README.md
-├── LICENSE
-└── requirements.txt
-
 # interface
 import subprocess
 
